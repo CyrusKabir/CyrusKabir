@@ -1,1 +1,1 @@
-<p style="color:red"> Hi, I'am Cyrus 👋 </p>
+<p color="red"> Hi, I'am Cyrus 👋 </p>
