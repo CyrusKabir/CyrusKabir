@@ -1,1 +1,1 @@
-<p> Hi, I'am Cyrus 👋 </p>
+<p align='center'> Hi, I'am Cyrus 👋 </p>
